@@ -36,6 +36,7 @@ It covers console connectivity, factory resets, switch setup from scratch, VLAN 
 
 🖥️ **Live Project Webpages:**  
 👉 [Cisco Catalyst Switch Lab 1](https://mark-thompson01.github.io/MTPortfolio/Skills/Labbing%20with%20a%20Cisco%20Catalyst%202950%20Switch/)
+
 👉 [Cisco Catalyst Switch Lab 2](https://mark-thompson01.github.io/MTPortfolio/Skills/Cisco%20STP%20Trunking%20Lab/)
 
 
