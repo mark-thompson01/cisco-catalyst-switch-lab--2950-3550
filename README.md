@@ -25,7 +25,7 @@ It covers console connectivity, factory resets, switch setup from scratch, VLAN 
 ---
 
 
-## 🗂 Table of Contents
+## 🗂 Lab Demonstrations
 
   - [Connecting to the Switch](#1-connecting-to-the-switch)
   - [Factory Reset](#2-factory-reset)
