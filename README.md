@@ -120,7 +120,7 @@ The purpose of this lab is to:
 
 ## 📘 What I’ve Learned
 
-- Managed switch navigation and configuration via PuTTY
+- Managed network switch navigation and configuration via PuTTY
 - Cisco command-line modes and how to navigate them
 - How to Factory Reset a legacy Cisco Catalyst switch
 - Basic switch configurations
