@@ -33,9 +33,9 @@ It covers console connectivity, factory resets, switch setup from scratch, VLAN 
   - Post Initial Setup
   - VLAN Creation and Managment
   - Port Security
-  - SPAN - Switch Port Analyzer
+  - SPAN - Switch Port Analyzer Configuration
   - Trunk Configuration
-  - Spanning Tree Protocol (STP) root bridge configuration
+  - Spanning Tree Protocol (STP) Root Bridge Configuration
 
 
 ---
