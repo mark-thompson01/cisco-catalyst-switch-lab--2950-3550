@@ -71,7 +71,7 @@ Key topics include:
 | VLAN ID | Name   | Purpose         |
 |---------|--------|-----------------|
 | 1       | native | Management      |
-| 10      | Lab-2  | Experiment      |
+| 10      | Lab-1  | Experiment      |
 | 20      | Lab-2  | Workstations    |
 | 99      | Native | Native VLAN for trunk |
 
