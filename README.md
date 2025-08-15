@@ -9,7 +9,7 @@ While the creation of VLANs and setting up Trunking is demonstrated. This lab is
 These are fairly older models, but serve as a great tool for practicing networking fundamentals.
 
 ![Cisco Catalyst 2950](Images/Switches.jpg)
-![Cisco Catalyst Switch Lab](Images/con1.png)
+
 
 
 
@@ -22,6 +22,7 @@ This lab walks through the full process of connecting to, factory resetting, con
 
 It covers console connectivity, factory resets, switch setup from scratch, VLAN management, port security, monitoring via SPAN, Spanning Tree Protocol - STP and Trunk port configuration.
 
+![Cisco Catalyst Switch Lab](Images/con1.png)
 
 ---
 
