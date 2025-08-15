@@ -27,13 +27,15 @@ It covers console connectivity, factory resets, switch setup from scratch, VLAN 
 
 ## 🗂 Lab Demonstrations
 
-  - [Connecting to the Switch](#1-connecting-to-the-switch)
-  - [Factory Reset](#2-factory-reset)
-  - [Configuring Switch from Scratch](#3-configuring-switch-from-scratch)
-  - [Post Initial Setup](#4-post-initial-setup)
-  - [VLAN Creation and Management](#5-vlan-creation-and-management)
-  - [Port Security](#6-port-security)
-  - [SPAN – Switch Port Analyzer](#7-span--switch-port-analyzer)
+  - Connecting to the Switch
+  - Performing a Factory Reset
+  - Configuring the Swtich from Scratch
+  - Post Initial Setup
+  - VLAN Creation and Managment
+  - Port Security
+  - SPAN - Switch Port Analyzer
+  - Trunk Configuration
+  - Spanning Tree Protocol (STP) root bridge configuration
 
 
 ---
