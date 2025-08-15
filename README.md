@@ -65,6 +65,7 @@ Key topics include:
 
 ## Topology
 **Switch 1:** Cisco Catalyst 2950 (Layer 2) – VLAN creation, access port assignments, SPAN configuration
+
 **Switch 2:** Cisco Catalyst 3550 (Layer 3-capable) – Trunking, STP root bridge
 
 **VLAN Plan:**
