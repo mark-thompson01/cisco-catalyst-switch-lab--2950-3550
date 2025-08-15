@@ -19,7 +19,7 @@ These are fairly older models, but serve as a great tool for practicing networki
 
 This lab walks through the full process of connecting to, factory resetting, configuring, and managing a **Cisco Catalyst 2950 and 3550 switch** using the CLI via PuTTY Terminal Emulator.  
 
-It covers console connectivity, factory resets, switch setup from scratch, VLAN management, port security, and monitoring via SPAN.
+It covers console connectivity, factory resets, switch setup from scratch, VLAN management, port security, monitoring via SPAN, Spanning Tree Protocol - STP and Trunk port configuration.
 
 
 ---
