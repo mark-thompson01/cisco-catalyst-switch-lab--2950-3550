@@ -2,7 +2,7 @@
 
 # 🖧 Cisco Catalyst Switch Lab - 2950-3550
 
-This repository contains my **hands-on lab using a Cisco Catalyst 2950 switch**, demonstrating foundational switch management and configuration skills.  
+This repository contains my **hands-on lab using a Cisco Catalyst 2950 and 3550 switch**, demonstrating foundational switch management and configuration skills.  
 
 The Cisco Catalyst 2950 is an older managed switch, but it remains a great tool for practicing networking fundamentals.
 
