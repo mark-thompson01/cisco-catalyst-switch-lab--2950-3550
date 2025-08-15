@@ -118,6 +118,18 @@ The purpose of this lab is to:
 ---
 
 
+## 📘 What I’ve Learned
+
+- Managed switch navigation and configuration via PuTTY
+- Command-line modes and how to navigate them
+- How to Factory Reset a legacy Cisco Catalyst switch
+- Basic switch configurations
+- Creating VLANs and assigning switch ports to them
+- How to configure a SPAN port - Switch Port Analyzer
+- How to configure a VLAN trunk port
+- How to configure Spanning-Tree-Protcol - STP - root bridge
+
+
 ## 📁 More from Me
 
 Visit my full GitHub Pages portfolio to explore additional projects:
