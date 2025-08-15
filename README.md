@@ -8,7 +8,7 @@ While the creation of VLANs and setting up Trunking is demonstrated. This lab is
 
 These are fairly older models, but serve as a great tool for practicing networking fundamentals.
 
-![Cisco Catalyst 2950](Images/Switches.jpg) ![Cisco Catalyst Switch Lab](Images/con1.png)
+![Cisco Catalyst 2950](Images/Switches.jpg)![Cisco Catalyst Switch Lab](Images/con1.png)
 
 
 
