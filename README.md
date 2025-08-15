@@ -6,6 +6,9 @@ This repository contains my **hands-on lab using a Cisco Catalyst 2950 and 3550 
 
 These are fairly older models, but serve as a great tool for practicing networking fundamentals.
 
+![Cisco Catalyst 2950](Images/Connecting/con1.png)
+
+
 
 ---
 
