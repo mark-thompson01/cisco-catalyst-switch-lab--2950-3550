@@ -122,7 +122,7 @@ The purpose of this lab is to:
 
 - Managed network switch navigation and configuration via PuTTY
 - Cisco command-line modes and how to navigate them
-- How to Factory Reset a legacy Cisco Catalyst switch
+- How to factory reset a legacy Cisco Catalyst switch
 - Basic switch configurations
 - Creating VLANs and assigning switch ports to them
 - How to configure a SPAN port - Switch Port Analyzer
