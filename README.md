@@ -126,6 +126,7 @@ The purpose of this lab is to:
 - Basic switch configurations
 - Creating VLANs and assigning switch ports to them
 - How to configure a SPAN port - Switch Port Analyzer
+- How to use Wireshark to capture and analyze network traffic from SPAN source ports
 - How to configure a VLAN trunk port
 - How to configure Spanning-Tree-Protcol - STP - root bridge
 
