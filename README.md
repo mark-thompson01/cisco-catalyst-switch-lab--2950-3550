@@ -12,7 +12,7 @@ These are fairly older models, but serve as a great tool for practicing networki
 
 ## 📖 Overview
 
-This lab walks through the full process of connecting to, resetting, configuring, and managing a **Cisco Catalyst 2950 switch** using the CLI.  
+This lab walks through the full process of connecting to, resetting, configuring, and managing a **Cisco Catalyst 2950 and 3550 switch** using the CLI.  
 
 It covers console connectivity, factory resets, switch setup from scratch, VLAN management, port security, and monitoring via SPAN.
 
