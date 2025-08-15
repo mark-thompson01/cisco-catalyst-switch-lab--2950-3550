@@ -64,14 +64,15 @@ Key topics include:
 
 
 ## Topology
-**Switch 1:** Cisco Catalyst 2950 (Layer 2) – VLAN creation, access port assignments  
-**Switch 2:** Cisco Catalyst 3550 (Layer 3-capable) – Trunking, STP root bridge, SPAN configuration
+**Switch 1:** Cisco Catalyst 2950 (Layer 2) – VLAN creation, access port assignments, SPAN configuration
+**Switch 2:** Cisco Catalyst 3550 (Layer 3-capable) – Trunking, STP root bridge
 
 **VLAN Plan:**
 | VLAN ID | Name   | Purpose         |
 |---------|--------|-----------------|
-| 10      | Lab-1  | Access ports    |
-| 20      | Lab-2  | Access ports    |
+| 1       | native | Management      |
+| 10      | Lab-2  | Experiment      |
+| 20      | Lab-2  | Workstations    |
 | 99      | Native | Native VLAN for trunk |
 
 ---
