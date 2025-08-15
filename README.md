@@ -24,6 +24,8 @@ It covers console connectivity, factory resets, switch setup from scratch, VLAN 
 
 ![Cisco Catalyst Switch Lab](Images/con1.png)
 
+![Cisco Catalyst Switch Lab](Images/post1.png)
+
 ---
 
 
