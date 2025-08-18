@@ -122,6 +122,28 @@ The purpose of this lab is to:
 ---
 
 
+## 🔧 Recreating These Labs
+
+To follow along or recreate these Cisco switch projects:
+
+1. **Get the equipment**  
+   - Two Cisco Catalyst switches (e.g., 2950 & 3550)  
+   - *Or use Cisco Packet Tracer / Cisco Modeling Labs (CML) for a virtual setup*  
+
+2. **Connect to each switch via console**  
+   - Use PuTTY or another terminal emulator  
+
+3. **Perform a factory reset**  
+   ```bash
+   write erase
+   delete flash:vlan.dat
+   reload
+
+
+
+---
+
+
 ## 📘 What I’ve Learned
 
 - Managed network switch navigation and configuration via PuTTY
