@@ -1,4 +1,4 @@
-# cisco-catalyst-switch-lab--2950-3550
+ # cisco-catalyst-switch-lab--2950-3550
 
 # 🖧 Cisco Catalyst Switch Lab - 2950-3550
 
@@ -138,6 +138,15 @@ To follow along or recreate these Cisco switch projects:
    write erase
    delete flash:vlan.dat
    reload
+   ```
+
+4. **Setup and configure VLANs**
+
+5. **Setup and configure Trunk port**
+   
+6. **Setup and configure Spanning Tree Protocol - STP - Brdige Port**
+   
+7. **Setup and configure SPAN port - Switch Port Analyzer** 
 
 
 
