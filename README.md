@@ -98,7 +98,7 @@ show monitor session 1
 
 The purpose of this lab is to:
 
-- Gain hands-on experience configuring and managing a **Cisco Catalyst switch**  
+- Gain hands-on experience configuring and managing a **Cisco Catalyst Series switches**  
 - Learn and practice:
   - Basic switch setup
   - VLAN creation and port assignments
