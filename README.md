@@ -4,7 +4,7 @@
 
 This repository contains my **hands-on lab using a Cisco Catalyst 2950 and 3550 switch**, demonstrating foundational switch management and configuration skills.  
 
-While the creation of VLANs and setting up Trunking is demonstrated. This lab is more focused on layer 2 switching. Inter-VLAN routing is not implemented in this setup due to a single available subnet.
+While the creation of VLANs and setting up Trunking is demonstrated. Inter-VLAN routing is not implemented in this setup due to a single available subnet.
 
 These are fairly older models, but serve as a great tool for practicing networking fundamentals.
 
