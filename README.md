@@ -135,9 +135,10 @@ To follow along or recreate these Cisco switch projects:
 
 3. **Perform a factory reset**  
    ```bash
-   write erase
-   delete flash:vlan.dat
-   reload
+   flash_init
+   del flash:config.text
+   del flash:vlan.dat
+   boot
    ```
 
 4. **Setup and configure VLANs**
