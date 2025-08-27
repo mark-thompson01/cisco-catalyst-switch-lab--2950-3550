@@ -47,7 +47,7 @@ It covers console connectivity, factory resets, switch setup from scratch, VLAN 
 
 Key topics include:
 - VLAN creation and port assignment
-- Trunk configuration with a hardened native VLAN
+- Trunk configuration with a hardened Native VLAN
 - Spanning Tree Protocol (STP) root bridge configuration
 - SPAN (port mirroring) for traffic analysis
 
