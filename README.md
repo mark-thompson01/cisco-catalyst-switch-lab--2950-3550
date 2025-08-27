@@ -18,7 +18,7 @@ These are fairly older models, but serve as a great tool for practicing networki
 
 ## 📖 Overview
 
-This lab walks through the full process of connecting to, factory resetting, configuring, and managing a **Cisco Catalyst series switches** using the CLI via PuTTY Terminal Emulator.  
+This lab walks through the full process of connecting to, factory resetting, configuring, and managing **Cisco Catalyst series switches** using the CLI via PuTTY Terminal Emulator.  
 
 It covers console connectivity, factory resets, switch setup from scratch, VLAN management, port security, monitoring via SPAN, Spanning Tree Protocol - STP and Trunk port configuration.
 
