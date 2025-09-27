@@ -2,7 +2,7 @@
 
 # 🖧 Cisco Catalyst Switch Lab - 2950-3550
 
-This repository contains my **hands-on lab using a Cisco Catalyst 2950 and 3550 switch**, demonstrating foundational switch management and configuration skills.  
+This repository contains my **hands-on labs using a Cisco Catalyst 2950 and 3550 switch**, demonstrating foundational switch management and configuration skills.  
 
 While the creation of VLANs and setting up Trunking is demonstrated. Inter-VLAN routing is not implemented in this setup due to a single available subnet.
 
