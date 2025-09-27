@@ -145,7 +145,7 @@ To follow along or recreate these Cisco switch projects:
 
 5. **Setup and configure Trunk port**
    
-6. **Setup and configure Spanning Tree Protocol - STP - Brdige Port**
+6. **Setup and configure Spanning Tree Protocol - STP - Bridge Port**
    
 7. **Setup and configure SPAN port - Switch Port Analyzer** 
 
