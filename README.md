@@ -114,6 +114,7 @@ The purpose of this lab is to:
 
 - Cisco Catalyst 2950 and 3550 managed switches
 - DB9 serial to console port cable
+- Crossover Cable for Trunk port configuration
 - PuTTY terminal emulator
 - Windows Desktop
 - Wireshark
